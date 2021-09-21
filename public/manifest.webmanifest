@@ -1,0 +1,19 @@
+{
+    "name": "Unit 18 Budget Tracker App",
+    "short_name": "Budget Tracker App",
+    "icons": [
+      {
+        "src": "./icons/icon-192x192.png",
+        "sizes": "169x169",
+        "type": "image/png"
+      },
+      {
+        "src": "./icons/icon-512x512.png",
+        "sizes": "452x452",
+        "type": "image/png"
+      }],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "start_url": "/",
+    "display": "standalone"
+  }

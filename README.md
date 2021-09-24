@@ -1,7 +1,7 @@
 # Progressive-Budget
 # Description
 
-This is a tech blog. Create an account. Write and view blogs and comment on them!
+This application is used to keep track of your budget. This budget tracker can be used offline as well!
 # Table of Contents
 
 * [Installation](#installation)
@@ -12,11 +12,11 @@ This is a tech blog. Create an account. Write and view blogs and comment on them
 * [Questions](#questions)
 
 # Deployed Website: 
-[Workout Tracker](https://afternoon-waters-30602.herokuapp.com/)
+[Deployed Site](https://afternoon-waters-30602.herokuapp.com/)
 
 # Screenshot :
 
-|![Tech-Blog](./public/images/screenshot.png)
+|![PRogressive-Budget](public/screenshot.png)
 
 
 # User Story

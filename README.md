@@ -12,7 +12,7 @@ This application is used to keep track of your budget. This budget tracker can b
 * [Questions](#questions)
 
 # Deployed Website: 
-[Deployed Site](https://afternoon-waters-30602.herokuapp.com/)
+[Deployed Site](https://hidden-atoll-46530.herokuapp.com/)
 
 # Screenshot :
 

@@ -60,7 +60,9 @@ SO THAT my account balance is accurate when I am traveling
 
 2. Express server is used to handle routing.
 
-3. User can add and delete money from their budget. 
+3. User can add and delete money from their budget.
+
+4. Service-Worker is used to allow the application to be used while offline.
 
 # Contribution
 
